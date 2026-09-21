@@ -1,0 +1,47 @@
+{
+  "scores": [
+    {
+      "id": "1",
+      "nombre": "ComandanteAlpha",
+      "puntaje": 1200,
+      "nivel": 1,
+      "fecha": "2026-09-20"
+    },
+    {
+      "id": "2",
+      "nombre": "StarDefender",
+      "puntaje": 2400,
+      "nivel": 2,
+      "fecha": "2026-09-21"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "6SmsA2nxwgw"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 25000,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "obSjXD5aUqY"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 68200,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "BlNLSXpkmlA"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 19900,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "K4EnxOEZEpc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
