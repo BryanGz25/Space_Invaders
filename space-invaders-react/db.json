@@ -13,6 +13,392 @@
       "puntaje": 2400,
       "nivel": 2,
       "fecha": "2026-09-21"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "6SmsA2nxwgw"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 25000,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "obSjXD5aUqY"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 68200,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "BlNLSXpkmlA"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 19900,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "K4EnxOEZEpc"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 25300,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "R06zblIVUKs"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 6000,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "KRbk_HH1MJg"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 45400,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "TuATAVdVKO4"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 19200,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "e6UT0TaNPP0"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 13200,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "QvUG6EDwvog"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 29000,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "Q9QZZYFQKtY"
+    },
+    {
+      "nombre": "Barry",
+      "puntaje": 44400,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "z_ty_iu1sT4"
+    },
+    {
+      "nombre": "Barry",
+      "puntaje": 44800,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "Bm2gKTTJEcg"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 42800,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "IGi7XRHUmfw"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "zw2VxiowCmE"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "VxHvqDx0DMI"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "KqioxaF5KIA"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "QQ9aGZYFmZc"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "UvpI9yYQZ-k"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 35000,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "hg4__7I0x2s"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 26600,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "vrsZz7RIhf8"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 51800,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "xASxQgNdZHc"
+    },
+    {
+      "nombre": "Angel",
+      "puntaje": 24600,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "8hT7uIjDJMw"
+    },
+    {
+      "nombre": "Angel",
+      "puntaje": 42700,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "CB_iWLJeu90"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 20600,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "SQ8KZE0D9Ec"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 4400,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "AN0NRjhSzmE"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 16200,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "NAqS-PHBD7w"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 7000,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "lsjp7SRSBBA"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1300,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "pUrdgOztG48"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 2100,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "f0vemaTnhU4"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 500,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "_-udpEs9D6I"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 500,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "LLIrnslAZuA"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1000,
+      "nivel": 2,
+      "fecha": "2026-09-21",
+      "id": "7f_2RFsOZeY"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1500,
+      "nivel": 3,
+      "fecha": "2026-09-21",
+      "id": "KkdaV4885iA"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 900,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "S-Giyiz67GM"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 300,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "dBixo6jSMkQ"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 300,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "nOtE_vzoTkw"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1200,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "sWsfPtHfPXA"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1000,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "AfnjJDMfz8Y"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1000,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "nENmILwp8J0"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 900,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "CJodzmtbzRY"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 600,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "adzHVUfBWsY"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 800,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "DglnJi3JKKw"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1000,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "rI4cIQ-h_zA"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1000,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "BkYuPVSx3Gs"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1100,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "u-F9TVQNzPc"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "9BigUZIqnOk"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1200,
+      "nivel": 4,
+      "fecha": "2026-09-21",
+      "id": "9fTaqe4w2Cs"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 500,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "DfseN96gurQ"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1000,
+      "nivel": 2,
+      "fecha": "2026-09-21",
+      "id": "Aga3WF1osmY"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1300,
+      "nivel": 3,
+      "fecha": "2026-09-21",
+      "id": "kjcUDUNVwBg"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1400,
+      "nivel": 3,
+      "fecha": "2026-09-21",
+      "id": "nNT5XIeg6fw"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 500,
+      "nivel": 1,
+      "fecha": "2026-09-21",
+      "id": "B7aNdtboepE"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 1000,
+      "nivel": 2,
+      "fecha": "2026-09-21",
+      "id": "8ilEO6ywln4"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 3,
+      "fecha": "2026-09-21",
+      "id": "k3aCZtWlcSQ"
+    },
+    {
+      "nombre": "Jugador_1",
+      "puntaje": 0,
+      "nivel": 3,
+      "fecha": "2026-09-21",
+      "id": "QdNtC4hGUgk"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
